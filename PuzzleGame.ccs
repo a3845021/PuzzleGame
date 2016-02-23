@@ -1,0 +1,36 @@
+<Solution>
+  <PropertyGroup Name="PuzzleGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Battery">
+          <ExportJsonFile Name="battery.ExportJson" />
+        </Folder>
+        <Folder Name="Chudik">
+          <ExportJsonFile Name="chudik.ExportJson" />
+        </Folder>
+        <Folder Name="Font">
+          <Fnt Name="play_100_0.fnt" />
+        </Folder>
+        <Folder Name="Picture">
+          <Image Name="4-1.png" />
+          <Image Name="4-2.png" />
+          <Image Name="5-1.png" />
+          <Image Name="5-2.png" />
+          <Image Name="6-1.png" />
+          <Image Name="6-2.png" />
+          <Image Name="7-1.png" />
+          <Image Name="7-2.png" />
+          <Image Name="bg_anim.png" />
+          <Image Name="bg_game.png" />
+          <Image Name="bg_tut.png" />
+          <Image Name="bt_play.png" />
+        </Folder>
+        <PlistInfo Name="Plist.csi" Type="Plist" />
+        <Project Name="SceneGame.csd" Type="Scene" />
+        <Project Name="SceneMain.csd" Type="Scene" />
+        <Project Name="SceneWin.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

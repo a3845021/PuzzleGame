@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Plist" Type="Plist" ID="fadf785f-8b37-42d1-9295-babda952c360" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Picture/bt_play.png" />
+      <FilePathData Path="Picture/4-1.png" />
+      <FilePathData Path="Picture/4-2.png" />
+      <FilePathData Path="Picture/5-1.png" />
+      <FilePathData Path="Picture/5-2.png" />
+      <FilePathData Path="Picture/6-1.png" />
+      <FilePathData Path="Picture/6-2.png" />
+      <FilePathData Path="Picture/7-1.png" />
+      <FilePathData Path="Picture/7-2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

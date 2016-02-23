@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Picture/bt_play.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{104,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,104}</string>
+			</dict>
+			<key>Picture/4-1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,104},{90,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+			<key>Picture/4-2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,194},{90,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+			<key>Picture/5-1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,284},{90,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+			<key>Picture/5-2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,374},{90,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+			<key>Picture/6-1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,464},{90,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+			<key>Picture/6-2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,554},{90,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+			<key>Picture/7-1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,644},{90,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+			<key>Picture/7-2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,734},{90,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,90}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist.png</string>
+			<key>size</key>
+			<string>{128,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>128</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>
